@@ -1,0 +1,101 @@
+Animal_ID,Name,Species,Common_Name,Habitat,Continent,Diet,Lifespan,Conservation_Status,Weight_kg,Height_m,Avg_Offspring
+1,Zebra,Giraffa camelopardalis,Giant Panda,Bamboo Forest,South America,Omnivore,55,Vulnerable,2795,4.87,1
+2,Cheetah,Macropus rufus,Wolf,Forests,Europe,Carnivore,82,Vulnerable,2069,3.52,8
+3,Zebra,Giraffa camelopardalis,Cheetah,Deserts,Asia,Herbivore,80,Critically Endangered,5669,4.99,9
+4,Wolf,Equus quagga,Zebra,Forests,Asia,Omnivore,54,Vulnerable,3426,1.88,1
+5,Lion,Ailuropoda melanoleuca,Grizzly Bear,Deserts,Asia,Omnivore,76,Endangered,713,3.28,9
+6,Zebra,Ursus arctos,Zebra,Wetlands,South America,Herbivore,20,Least Concern,5629,3.95,5
+7,Grizzly Bear,Equus quagga,Zebra,Bamboo Forest,South America,Omnivore,57,Least Concern,1573,0.43,7
+8,Kangaroo,Loxodonta africana,Wolf,Mountains,Australia,Carnivore,25,Least Concern,3498,2.01,8
+9,Grizzly Bear,Equus quagga,Grizzly Bear,Bamboo Forest,North America,Herbivore,53,Endangered,3609,3.48,3
+10,Giraffe,Acinonyx jubatus,Cheetah,Wetlands,North America,Carnivore,45,Vulnerable,5217,3.39,5
+11,Giant Panda,Equus quagga,Giraffe,Mountains,South America,Herbivore,32,Vulnerable,1944,0.7,9
+12,Giant Panda,Acinonyx jubatus,Kangaroo,Savannas,Australia,Omnivore,6,Endangered,4813,2.77,3
+13,Giant Panda,Ursus arctos,Giant Panda,Grasslands,Asia,Herbivore,11,Endangered,2263,0.59,6
+14,Kangaroo,Panthera tigris,Zebra,Tundras,North America,Carnivore,90,Endangered,1410,1.43,6
+15,Lion,Equus quagga,Zebra,Bamboo Forest,Australia,Omnivore,50,Critically Endangered,5202,3.12,1
+16,Giant Panda,Panthera leo,Cheetah,Wetlands,Africa,Herbivore,66,Vulnerable,2945,2.37,9
+17,Giraffe,Panthera leo,Zebra,Mountains,Asia,Carnivore,11,Vulnerable,3006,1.31,9
+18,Elephant,Acinonyx jubatus,Wolf,Grasslands,North America,Herbivore,53,Endangered,2270,2.76,1
+19,Kangaroo,Canis lupus,Cheetah,Bamboo Forest,Asia,Herbivore,37,Least Concern,5078,2.42,5
+20,Wolf,Canis lupus,Grizzly Bear,Forests,Asia,Omnivore,71,Vulnerable,3827,0.89,2
+21,Grizzly Bear,Equus quagga,Cheetah,Savannas,Europe,Carnivore,33,Critically Endangered,4687,0.27,2
+22,Grizzly Bear,Giraffa camelopardalis,Zebra,Tundras,South America,Carnivore,26,Vulnerable,1668,2.19,8
+23,Wolf,Canis lupus,Lion,Grasslands,Asia,Carnivore,55,Endangered,3166,4.04,3
+24,Giant Panda,Panthera leo,Cheetah,Savannas,Australia,Carnivore,67,Critically Endangered,1957,0.27,6
+25,Tiger,Panthera tigris,Zebra,Forests,Australia,Carnivore,54,Vulnerable,5011,1.1,6
+26,Giant Panda,Panthera leo,Kangaroo,Savannas,North America,Carnivore,84,Vulnerable,622,3.21,9
+27,Elephant,Canis lupus,Tiger,Bamboo Forest,Asia,Carnivore,94,Vulnerable,2140,2.94,9
+28,Grizzly Bear,Ursus arctos,Tiger,Savannas,Europe,Herbivore,33,Vulnerable,5400,3.93,1
+29,Tiger,Giraffa camelopardalis,Giraffe,Savannas,South America,Omnivore,54,Endangered,2391,4.53,5
+30,Zebra,Loxodonta africana,Elephant,Forests,South America,Carnivore,33,Endangered,3135,3.23,8
+31,Giraffe,Canis lupus,Zebra,Savannas,Asia,Carnivore,38,Critically Endangered,2117,0.45,2
+32,Zebra,Ailuropoda melanoleuca,Grizzly Bear,Tundras,South America,Omnivore,51,Critically Endangered,5,2.05,2
+33,Elephant,Panthera leo,Cheetah,Wetlands,North America,Omnivore,76,Critically Endangered,5646,1.43,9
+34,Giant Panda,Panthera tigris,Kangaroo,Savannas,Asia,Carnivore,100,Critically Endangered,2755,2.11,6
+35,Giraffe,Panthera leo,Cheetah,Mountains,Australia,Omnivore,58,Vulnerable,464,0.96,2
+36,Giant Panda,Acinonyx jubatus,Wolf,Mountains,North America,Herbivore,21,Critically Endangered,4862,3.66,4
+37,Cheetah,Panthera leo,Elephant,Grasslands,Africa,Omnivore,85,Least Concern,5471,3.91,8
+38,Grizzly Bear,Acinonyx jubatus,Tiger,Tundras,Europe,Herbivore,4,Endangered,341,3.35,6
+39,Grizzly Bear,Equus quagga,Elephant,Deserts,Africa,Omnivore,41,Vulnerable,2585,1.71,4
+40,Grizzly Bear,Giraffa camelopardalis,Giraffe,Savannas,South America,Omnivore,71,Vulnerable,5211,4.36,2
+41,Cheetah,Acinonyx jubatus,Tiger,Mountains,North America,Omnivore,58,Critically Endangered,1463,4.75,7
+42,Wolf,Ursus arctos,Tiger,Savannas,Asia,Herbivore,79,Critically Endangered,5986,3.5,6
+43,Lion,Panthera tigris,Grizzly Bear,Deserts,North America,Herbivore,69,Endangered,5996,3.94,7
+44,Grizzly Bear,Acinonyx jubatus,Zebra,Forests,Asia,Carnivore,18,Endangered,3997,2.15,1
+45,Lion,Equus quagga,Wolf,Savannas,Australia,Herbivore,68,Vulnerable,44,2.04,2
+46,Cheetah,Panthera leo,Kangaroo,Bamboo Forest,Europe,Carnivore,35,Least Concern,5032,3.02,6
+47,Giraffe,Panthera tigris,Elephant,Tundras,North America,Herbivore,70,Least Concern,4830,3.53,6
+48,Giant Panda,Panthera tigris,Cheetah,Bamboo Forest,Australia,Herbivore,37,Vulnerable,3527,2.49,4
+49,Giant Panda,Equus quagga,Wolf,Savannas,Australia,Omnivore,69,Least Concern,3957,3.39,7
+50,Zebra,Canis lupus,Giant Panda,Bamboo Forest,Europe,Carnivore,29,Least Concern,2612,2.87,4
+51,Lion,Loxodonta africana,Giraffe,Wetlands,North America,Herbivore,32,Critically Endangered,27,3.98,5
+52,Elephant,Macropus rufus,Elephant,Tundras,Europe,Carnivore,42,Least Concern,2958,4.25,9
+53,Lion,Loxodonta africana,Elephant,Forests,North America,Carnivore,9,Vulnerable,70,4.47,6
+54,Kangaroo,Panthera tigris,Tiger,Deserts,North America,Omnivore,30,Endangered,3493,4.61,6
+55,Grizzly Bear,Giraffa camelopardalis,Giraffe,Mountains,Asia,Herbivore,72,Endangered,1879,3.02,5
+56,Cheetah,Loxodonta africana,Giant Panda,Grasslands,Asia,Herbivore,49,Endangered,684,4.5,3
+57,Grizzly Bear,Ailuropoda melanoleuca,Giraffe,Tundras,Australia,Omnivore,1,Endangered,1635,1.4,5
+58,Lion,Ursus arctos,Wolf,Mountains,Europe,Carnivore,49,Critically Endangered,5706,2.43,1
+59,Lion,Ursus arctos,Tiger,Tundras,Asia,Omnivore,1,Critically Endangered,4508,0.65,7
+60,Tiger,Acinonyx jubatus,Lion,Tundras,Australia,Omnivore,26,Vulnerable,3636,1.39,1
+61,Wolf,Giraffa camelopardalis,Zebra,Bamboo Forest,South America,Omnivore,19,Endangered,348,0.29,6
+62,Giraffe,Giraffa camelopardalis,Elephant,Deserts,North America,Carnivore,24,Vulnerable,5143,2.61,9
+63,Cheetah,Canis lupus,Cheetah,Wetlands,South America,Carnivore,61,Endangered,3825,2.98,9
+64,Lion,Equus quagga,Tiger,Grasslands,North America,Herbivore,58,Vulnerable,3841,3.35,1
+65,Giraffe,Loxodonta africana,Cheetah,Grasslands,Africa,Carnivore,47,Vulnerable,1483,4.22,4
+66,Zebra,Macropus rufus,Wolf,Forests,Africa,Omnivore,40,Endangered,3264,2.32,2
+67,Zebra,Ursus arctos,Tiger,Wetlands,North America,Herbivore,83,Vulnerable,2967,2.09,2
+68,Kangaroo,Panthera tigris,Giraffe,Mountains,Africa,Omnivore,30,Critically Endangered,4688,3.05,7
+69,Zebra,Loxodonta africana,Cheetah,Deserts,North America,Carnivore,59,Vulnerable,3132,3.86,3
+70,Elephant,Macropus rufus,Lion,Tundras,Europe,Omnivore,80,Endangered,956,0.71,4
+71,Wolf,Giraffa camelopardalis,Grizzly Bear,Bamboo Forest,Australia,Herbivore,80,Least Concern,5409,1.51,3
+72,Kangaroo,Canis lupus,Kangaroo,Deserts,North America,Herbivore,99,Vulnerable,346,4.39,1
+73,Elephant,Panthera tigris,Giraffe,Deserts,Europe,Omnivore,89,Least Concern,5180,3.74,3
+74,Wolf,Canis lupus,Wolf,Savannas,South America,Omnivore,29,Endangered,997,1.13,3
+75,Giant Panda,Ursus arctos,Giant Panda,Mountains,Europe,Omnivore,20,Least Concern,4824,1.33,9
+76,Lion,Ailuropoda melanoleuca,Grizzly Bear,Mountains,Europe,Carnivore,86,Critically Endangered,2191,1.63,6
+77,Elephant,Equus quagga,Lion,Grasslands,North America,Omnivore,14,Least Concern,2386,3.89,4
+78,Zebra,Ailuropoda melanoleuca,Giraffe,Wetlands,Asia,Omnivore,98,Vulnerable,4911,3.83,6
+79,Kangaroo,Ailuropoda melanoleuca,Giraffe,Bamboo Forest,Australia,Carnivore,35,Endangered,1461,0.97,2
+80,Giraffe,Acinonyx jubatus,Kangaroo,Bamboo Forest,North America,Carnivore,64,Endangered,3992,1.86,2
+81,Elephant,Canis lupus,Tiger,Forests,South America,Herbivore,78,Critically Endangered,3838,3.53,3
+82,Elephant,Loxodonta africana,Lion,Forests,Europe,Omnivore,56,Endangered,2751,4.41,7
+83,Giant Panda,Panthera leo,Giant Panda,Bamboo Forest,South America,Omnivore,82,Vulnerable,1590,1.01,8
+84,Giraffe,Acinonyx jubatus,Tiger,Bamboo Forest,Africa,Omnivore,77,Vulnerable,3601,4.63,5
+85,Zebra,Ailuropoda melanoleuca,Kangaroo,Savannas,North America,Carnivore,81,Vulnerable,4127,2.94,6
+86,Tiger,Canis lupus,Lion,Savannas,North America,Omnivore,86,Vulnerable,1081,3.0,2
+87,Cheetah,Canis lupus,Tiger,Tundras,North America,Omnivore,59,Least Concern,169,4.05,5
+88,Grizzly Bear,Ailuropoda melanoleuca,Zebra,Deserts,Africa,Omnivore,9,Critically Endangered,3294,4.52,7
+89,Lion,Ailuropoda melanoleuca,Grizzly Bear,Savannas,Europe,Omnivore,30,Endangered,5481,2.63,4
+90,Giant Panda,Canis lupus,Zebra,Tundras,Africa,Herbivore,45,Least Concern,1810,3.08,7
+91,Giraffe,Equus quagga,Grizzly Bear,Mountains,Africa,Omnivore,52,Vulnerable,2440,3.54,4
+92,Cheetah,Loxodonta africana,Cheetah,Bamboo Forest,North America,Herbivore,65,Endangered,3451,3.64,5
+93,Elephant,Ursus arctos,Elephant,Forests,Asia,Carnivore,88,Endangered,1611,3.25,2
+94,Giraffe,Canis lupus,Kangaroo,Deserts,North America,Carnivore,64,Critically Endangered,4403,1.62,6
+95,Tiger,Ailuropoda melanoleuca,Cheetah,Forests,Africa,Herbivore,45,Least Concern,1179,2.94,8
+96,Giant Panda,Ailuropoda melanoleuca,Giant Panda,Grasslands,North America,Omnivore,64,Critically Endangered,3128,2.03,4
+97,Elephant,Ursus arctos,Giant Panda,Savannas,South America,Carnivore,9,Vulnerable,1104,0.76,7
+98,Tiger,Macropus rufus,Lion,Deserts,Africa,Herbivore,75,Critically Endangered,1597,1.15,3
+99,Elephant,Panthera leo,Zebra,Savannas,Europe,Carnivore,17,Least Concern,1718,4.51,3
+100,Zebra,Giraffa camelopardalis,Kangaroo,Bamboo Forest,Asia,Herbivore,28,Critically Endangered,5643,0.65,6
